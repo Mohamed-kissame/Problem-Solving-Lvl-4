@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Problem Solving Level 4\\Project 19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B038E9FA-96B6-49F6-922E-833E77F99DA4}|Project 19\\Project 19.vcxproj|C:\\Problem Solving Level 4\\Project 19\\Project 19\\Project 19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B038E9FA-96B6-49F6-922E-833E77F99DA4}|Project 19\\Project 19.vcxproj|solutionrelative:Project 19\\Project 19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project 19.cpp",
+              "DocumentMoniker": "C:\\Problem Solving Level 4\\Project 19\\Project 19\\Project 19.cpp",
+              "RelativeDocumentMoniker": "Project 19\\Project 19.cpp",
+              "ToolTip": "C:\\Problem Solving Level 4\\Project 19\\Project 19\\Project 19.cpp*",
+              "RelativeToolTip": "Project 19\\Project 19.cpp*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T13:15:41.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

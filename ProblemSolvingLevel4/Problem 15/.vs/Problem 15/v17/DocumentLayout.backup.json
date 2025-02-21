@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Problem Solving Level 4\\Problem 15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B2E152-C3B4-43F2-8D71-6793864CFC11}|Problem 15\\Problem 15.vcxproj|C:\\Problem Solving Level 4\\Problem 15\\Problem 15\\Problem 15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2B2E152-C3B4-43F2-8D71-6793864CFC11}|Problem 15\\Problem 15.vcxproj|solutionrelative:Problem 15\\Problem 15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem 15.cpp",
+              "DocumentMoniker": "C:\\Problem Solving Level 4\\Problem 15\\Problem 15\\Problem 15.cpp",
+              "RelativeDocumentMoniker": "Problem 15\\Problem 15.cpp",
+              "ToolTip": "C:\\Problem Solving Level 4\\Problem 15\\Problem 15\\Problem 15.cpp",
+              "RelativeToolTip": "Problem 15\\Problem 15.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-08T15:15:39.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

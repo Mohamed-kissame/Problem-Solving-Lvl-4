@@ -1,0 +1,5 @@
+﻿  Problem 65.cpp
+C:\Problem Solving Level 4\Problem 65\Problem 65\Problem 65.cpp(20,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Problem Solving Level 4\Problem 65\Problem 65\Problem 65.cpp(61,12): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Problem Solving Level 4\Problem 65\Problem 65\Problem 65.cpp(67,18): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Problem 65.vcxproj -> C:\Problem Solving Level 4\Problem 65\x64\Debug\Problem 65.exe

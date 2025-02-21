@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Problem Solving Level 4\\Problem 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B385C4D-C529-4EE7-A9C7-5729377D5A13}|Problem 9\\Problem 9.vcxproj|C:\\Problem Solving Level 4\\Problem 9\\Problem 9\\Problem 9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B385C4D-C529-4EE7-A9C7-5729377D5A13}|Problem 9\\Problem 9.vcxproj|solutionrelative:Problem 9\\Problem 9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem 9.cpp",
+              "DocumentMoniker": "C:\\Problem Solving Level 4\\Problem 9\\Problem 9\\Problem 9.cpp",
+              "RelativeDocumentMoniker": "Problem 9\\Problem 9.cpp",
+              "ToolTip": "C:\\Problem Solving Level 4\\Problem 9\\Problem 9\\Problem 9.cpp*",
+              "RelativeToolTip": "Problem 9\\Problem 9.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T20:49:36.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Problem Solving Level 4\\Problem 33 to 46\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE62049-4ED8-4F75-BE9F-C78D62A7A373}|Problem 33 to 46\\Problem 33 to 46.vcxproj|C:\\Problem Solving Level 4\\Problem 33 to 46\\Problem 33 to 46\\Problem 33 to 46.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FE62049-4ED8-4F75-BE9F-C78D62A7A373}|Problem 33 to 46\\Problem 33 to 46.vcxproj|solutionrelative:Problem 33 to 46\\Problem 33 to 46.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem 33 to 46.cpp",
+              "DocumentMoniker": "C:\\Problem Solving Level 4\\Problem 33 to 46\\Problem 33 to 46\\Problem 33 to 46.cpp",
+              "RelativeDocumentMoniker": "Problem 33 to 46\\Problem 33 to 46.cpp",
+              "ToolTip": "C:\\Problem Solving Level 4\\Problem 33 to 46\\Problem 33 to 46\\Problem 33 to 46.cpp",
+              "RelativeToolTip": "Problem 33 to 46\\Problem 33 to 46.cpp",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAuwAsBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T19:08:37.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

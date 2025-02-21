@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Problem Solving Level 4\\Problem 16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{688665C7-80F9-46C9-B627-8908A003F7DE}|Problem 16\\Problem 16.vcxproj|C:\\Problem Solving Level 4\\Problem 16\\Problem 16\\Problem 16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{688665C7-80F9-46C9-B627-8908A003F7DE}|Problem 16\\Problem 16.vcxproj|solutionrelative:Problem 16\\Problem 16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem 16.cpp",
+              "DocumentMoniker": "C:\\Problem Solving Level 4\\Problem 16\\Problem 16\\Problem 16.cpp",
+              "RelativeDocumentMoniker": "Problem 16\\Problem 16.cpp",
+              "ToolTip": "C:\\Problem Solving Level 4\\Problem 16\\Problem 16\\Problem 16.cpp",
+              "RelativeToolTip": "Problem 16\\Problem 16.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-08T15:56:07.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
